@@ -1,0 +1,12 @@
+/target
+
+# IDE/editor settings
+*.swp
+*.swo
+*.bak
+*.tmp
+.vscode/
+.idea/
+
+# Other
+.DS_Store
